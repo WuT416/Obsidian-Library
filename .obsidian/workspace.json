@@ -8,138 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "250c224ca0ace3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/1：整洁代码.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d090539178d8b89b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/3：函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b04b50406705cc7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/4：注释.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdced49c0882f41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/5：格式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8217fdcc579184bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/6：对象和数据结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3ce1ae1f597f780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/7：错误处理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fdd5c78664f2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/8：边界.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31fe9e36abbd6b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/9：单元测试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "561d80ad335c356c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/10：类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f6d2ac413b5435f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书笔记/代码整洁之道/11：系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28961150129b6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/css实践/换行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a4f2db8a00b3695",
             "type": "leaf",
             "state": {
@@ -151,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,6 +136,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b60d80b0b63fde3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -289,19 +164,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9c5aea1994770e6f",
+  "active": "5a4f2db8a00b3695",
   "lastOpenFiles": [
-    "实践应用/css实践/换行.md",
+    "README.md",
+    "未命名 1.md",
+    "md简单语法.md",
     "实践应用/css实践/注意事项.md",
-    "读书笔记/代码整洁之道/3：函数.md",
+    "2024-06-18.md",
+    "实践应用/css实践/换行.md",
     "读书笔记/代码整洁之道/11：系统.md",
-    "实践应用/css实践",
-    "实践应用",
     "读书笔记/代码整洁之道/10：类.md",
     "读书笔记/代码整洁之道/9：单元测试.md",
     "读书笔记/代码整洁之道/8：边界.md",
     "读书笔记/代码整洁之道/7：错误处理.md",
     "读书笔记/代码整洁之道/6：对象和数据结构.md",
+    "读书笔记/代码整洁之道/3：函数.md",
+    "实践应用/css实践",
+    "实践应用",
     "读书笔记/代码整洁之道/5：格式.md",
     "读书笔记/代码整洁之道/4：注释.md",
     "读书笔记/代码整洁之道/1：整洁代码.md",
@@ -317,8 +196,6 @@
     "resource/img/Pasted image 20240618153059.png",
     "读书笔记/《js高级程序设计》.md",
     "未命名.md",
-    "未命名 1.canvas",
-    "未命名 1.md",
-    "md简单语法.md"
+    "未命名 1.canvas"
   ]
 }
