@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7f8031ff5705308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/配置移动端自适应.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2c44f771451d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
+                "file": "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
+                "file": "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md"
+                "file": "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md"
               }
             }
           },
@@ -189,8 +213,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9c5aea1994770e6f",
+  "active": "be2c44f771451d15",
   "lastOpenFiles": [
+    "实践应用/css实践/注意事项.md",
+    "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
+    "实践应用/vue实践/配置移动端自适应.md",
+    "实践应用/vue实践",
     "resource/img/Pasted image 20240619105116.png",
     "resource/img/Pasted image 20240619105038.png",
     "resource/img/Pasted image 20240619105000.png",
@@ -199,7 +227,6 @@
     "实践应用/echart实践/由于分辨率不同，echart图中的字体出现过于模糊的情况.md",
     "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
     "实践应用/rust+webassembly",
-    "实践应用/css实践/注意事项.md",
     "实践应用/echart实践",
     "README.md",
     "未命名 1.md",
@@ -223,7 +250,6 @@
     "resource/img/Pasted image 20240618153534.png",
     "resource/img/Pasted image 20240618153444.png",
     "resource/img/Pasted image 20240618153421.png",
-    "resource/img/Pasted image 20240618153351.png",
     "读书笔记/《js高级程序设计》.md",
     "未命名.md",
     "未命名 1.canvas"
