@@ -90,9 +90,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a855f68afdb2fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/vue响应式不生效.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e37e88df11e19a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/vue路由简化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95232f8eec10df21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/vue响应式不生效.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "354971d0afb0f2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/多页应用如何新增一个页面.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc54df9bd8037df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/写样式时与页面有空隙（重置样式）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd9cecb83a200b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/如何新建一个vue项目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689b8ee74de828ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -158,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践应用/vue实践/vue实现页面跳转.md",
+                "file": "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践应用/vue实践/vue实现页面跳转.md",
+                "file": "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践应用/vue实践/vue实现页面跳转.md"
+                "file": "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md"
               }
             }
           },
@@ -219,7 +303,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,25 +321,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0e95b3ce064330af",
+  "active": "689b8ee74de828ce",
   "lastOpenFiles": [
-    "resource/img/Pasted image 20240621155045.png",
-    "resource/img/Pasted image 20240621155032.png",
-    "resource/img/Pasted image 20240621155023.png",
-    "resource/img/Pasted image 20240621155012.png",
-    "实践应用/vue实践/validator方法中使用this指针指向问题.md",
+    "resource/img/Pasted image 20240624172344.png",
+    "resource/img/Pasted image 20240624172332.png",
+    "resource/img/Pasted image 20240624172315.png",
+    "resource/img/Pasted image 20240624172305.png",
+    "resource/img/Pasted image 20240624172219.png",
+    "resource/img/Pasted image 20240624172151.png",
+    "resource/img/Pasted image 20240624172127.png",
+    "实践应用/vue实践/如何新建一个vue项目.md",
+    "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
+    "实践应用/vue实践/写样式时与页面有空隙（重置样式）.md",
+    "实践应用/vue实践/多页应用如何新增一个页面.md",
+    "resource/img/Pasted image 20240624171814.png",
+    "resource/img/Pasted image 20240624171803.png",
+    "resource/img/Pasted image 20240624171751.png",
+    "resource/img/Pasted image 20240624171740.png",
+    "实践应用/vue实践/vue响应式不生效.md",
+    "实践应用/vue实践/一个表单拆分为两个组件如何进行校验.md",
+    "实践应用/vue实践/vue路由简化.md",
+    "实践应用/vue实践/],[.md",
     "实践应用/vue实践/vue实现页面跳转.md",
-    "resource/img/Pasted image 20240621154837.png",
-    "resource/img/Pasted image 20240621154659.png",
+    "实践应用/vue实践/validator方法中使用this指针指向问题.md",
     "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
     "实践应用/css实践/注意事项.md",
     "实践应用/vue实践/配置移动端自适应.md",
     "实践应用/vue实践",
-    "resource/img/Pasted image 20240619105116.png",
-    "resource/img/Pasted image 20240619105038.png",
-    "resource/img/Pasted image 20240619105000.png",
-    "resource/img/Pasted image 20240619104858.png",
-    "resource/img/Pasted image 20240619104730.png",
     "实践应用/echart实践/由于分辨率不同，echart图中的字体出现过于模糊的情况.md",
     "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
     "实践应用/rust+webassembly",
@@ -270,15 +362,8 @@
     "读书笔记/代码整洁之道/9：单元测试.md",
     "读书笔记/代码整洁之道/8：边界.md",
     "读书笔记/代码整洁之道/7：错误处理.md",
-    "读书笔记/代码整洁之道/6：对象和数据结构.md",
-    "读书笔记/代码整洁之道/3：函数.md",
     "实践应用/css实践",
     "实践应用",
-    "读书笔记/代码整洁之道/5：格式.md",
-    "读书笔记/代码整洁之道/4：注释.md",
-    "读书笔记/代码整洁之道/1：整洁代码.md",
-    "读书笔记/《js高级程序设计》.md",
-    "未命名.md",
     "未命名 1.canvas"
   ]
 }
