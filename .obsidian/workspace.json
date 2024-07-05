@@ -4,167 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5d76a026f1c50bb",
+        "id": "3c9b7b9619dc6ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4f2db8a00b3695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/css实践/注意事项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3040de19e81535d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/echart实践/由于分辨率不同，echart图中的字体出现过于模糊的情况.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d190ec2b9bfb77c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f8031ff5705308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/配置移动端自适应.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be2c44f771451d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bffe708ad7569ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/validator方法中使用this指针指向问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e95b3ce064330af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/vue实现页面跳转.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a855f68afdb2fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/vue响应式不生效.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e37e88df11e19a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/vue路由简化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95232f8eec10df21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/vue响应式不生效.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "354971d0afb0f2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/多页应用如何新增一个页面.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc54df9bd8037df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/写样式时与页面有空隙（重置样式）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fd9cecb83a200b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实践应用/vue实践/如何新建一个vue项目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "689b8ee74de828ce",
+            "id": "36769064c3973f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,55 +20,79 @@
             }
           },
           {
-            "id": "41651e9dcf86b97f",
+            "id": "7097426e93ca4838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "实践应用/组件or工具插件使用方法/driver.js新手指引插件实现与踩坑.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3048cff2964dfd8a",
+            "id": "16729a16cd091410",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践应用/webpack&npm实践/如何打包与发布npm包.md",
+                "file": "实践应用/组件or工具插件使用方法/git复制项目.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1afc1597fd6d5252",
+            "id": "674a5e919063fbdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践应用/webpack&npm实践/错误：npm运行失败--npm ERR! code ELIFECYCLE.md",
+                "file": "实践应用/组件or工具插件使用方法/iscroll--js滚动插件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7de92e43d8f68ca7",
+            "id": "760b91a497e8cbd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/《js高级程序设计》.md",
+                "file": "实践应用/组件or工具插件使用方法/moment.js--日历插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849afbcac187c8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/计算机网络实践/动手搭建http实验环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f79e4e50103f68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "j",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/《js高级程序设计》.md",
+                "file": "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/《js高级程序设计》.md",
+                "file": "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/《js高级程序设计》.md"
+                "file": "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md"
               }
             }
           },
@@ -369,26 +237,39 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9c5aea1994770e6f",
+  "active": "6f79e4e50103f68c",
   "lastOpenFiles": [
+    "实践应用/计算机网络实践/动手搭建http实验环境.md",
+    "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
+    "resource/img/Pasted image 20240705180640.png",
+    "resource/img/Pasted image 20240705180634.png",
+    "resource/img/Pasted image 20240705180602.png",
+    "resource/img/Pasted image 20240705180549.png",
+    "resource/img/Pasted image 20240705180527.png",
+    "resource/img/Pasted image 20240705180514.png",
+    "resource/img/Pasted image 20240705180454.png",
+    "resource/img/Pasted image 20240705180448.png",
+    "resource/img/Pasted image 20240705174610.png",
+    "resource/img/Pasted image 20240705174601.png",
+    "实践应用/组件or工具插件使用方法/moment.js--日历插件.md",
+    "实践应用/计算机网络实践",
+    "实践应用/组件or工具插件使用方法/iscroll--js滚动插件.md",
+    "实践应用/组件or工具插件使用方法/git复制项目.md",
+    "实践应用/组件or工具插件使用方法/driver.js新手指引插件实现与踩坑.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-07-04 15.37.42.excalidraw.md",
+    "实践应用/webpack&npm实践/如何打包与发布npm包.md",
+    "2024-07-04.md",
+    "Prototype.md",
+    "未命名.canvas",
+    "Excalidraw",
+    "实践应用/webpack&npm实践/错误：npm运行失败--npm ERR! code ELIFECYCLE.md",
+    "实践应用/css实践/注意事项.md",
     "实践应用/webpack&npm实践/错误：可以运行但是commit报错.md",
     "实践应用/webpack&npm实践/工具插件或者组件使用方法.md",
-    "组件or工具插件使用方法",
-    "实践应用/webpack&npm实践/错误：npm运行失败--npm ERR! code ELIFECYCLE.md",
-    "实践应用/webpack&npm实践/如何打包与发布npm包.md",
-    "resource/img/Pasted image 20240704152927.png",
-    "resource/img/Pasted image 20240704152854.png",
-    "resource/img/Pasted image 20240704152635.png",
-    "resource/img/Pasted image 20240704152445.png",
-    "resource/img/Pasted image 20240704152354.png",
-    "resource/img/Pasted image 20240704152337.png",
-    "resource/img/Pasted image 20240704152040.png",
-    "resource/img/Pasted image 20240704151931.png",
-    "resource/img/Pasted image 20240704151859.png",
-    "未命名.md",
+    "实践应用/组件or工具插件使用方法",
     "实践应用/webpack&npm实践",
     "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
-    "resource/img/Pasted image 20240624172344.png",
     "实践应用/vue实践/如何新建一个vue项目.md",
     "实践应用/vue实践/写样式时与页面有空隙（重置样式）.md",
     "实践应用/vue实践/多页应用如何新增一个页面.md",
@@ -398,19 +279,9 @@
     "实践应用/vue实践/],[.md",
     "实践应用/vue实践/vue实现页面跳转.md",
     "实践应用/vue实践/validator方法中使用this指针指向问题.md",
-    "实践应用/vue实践/this.$router.query和this.$router.params的使用与区别.md",
-    "实践应用/css实践/注意事项.md",
-    "实践应用/vue实践/配置移动端自适应.md",
     "实践应用/vue实践",
-    "实践应用/echart实践/由于分辨率不同，echart图中的字体出现过于模糊的情况.md",
-    "实践应用/rust+webassembly/如何通过webassembly将rust带到nodejs项目中.md",
     "实践应用/rust+webassembly",
     "实践应用/echart实践",
-    "README.md",
-    "md简单语法.md",
-    "2024-06-18.md",
-    "实践应用/css实践/换行.md",
-    "读书笔记/代码整洁之道/11：系统.md",
     "实践应用/css实践",
     "实践应用",
     "未命名 1.canvas"
