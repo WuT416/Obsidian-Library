@@ -246,9 +246,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3c06807a9c45e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/html/特殊字符引用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d15709ac024aa01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/html/html5/data-* 自定义属性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39ec1207f0f35b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/html/html5/MathML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -314,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
+                "file": "基础知识/html/html5/MathML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
+                "file": "基础知识/html/html5/MathML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md"
+                "file": "基础知识/html/html5/MathML.md"
               }
             }
           },
@@ -393,32 +429,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9c5aea1994770e6f",
+  "active": "ea0bf15b4dd53ef8",
   "lastOpenFiles": [
+    "基础知识/html/html5/data-* 自定义属性.md",
+    "基础知识/html/html5/MathML.md",
+    "基础知识/html/特殊字符引用.md",
+    "基础知识/html/html5",
+    "题库/1.md",
+    "题库/react",
+    "题库/vue",
+    "题库/浏览器原理",
+    "题库/js",
+    "题库/css",
+    "题库/html",
+    "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
+    "题库",
     "基础知识/html",
     "基础知识/css/css3/计算属性.md",
-    "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
     "基础知识/css/样式/文本样式.md",
     "基础知识/css/css3",
     "基础知识/css/基础/选择器/优先级.md",
-    "基础知识/css/样式",
     "基础知识/css/基础/选择器/组合器.md",
     "基础知识/css/基础/选择器/属性选择器.md",
     "基础知识/css/基础/选择器/伪元素.md",
     "基础知识/css/基础/盒模型.md",
-    "基础知识/css/基础/选择器",
     "基础知识/css/基础/框模型.md",
     "基础知识/css/基础/css变量.md",
     "基础知识/css/基础/常用css属性.md",
     "基础知识/css/思维导图.md",
-    "基础知识/css/基础",
     "resource/img1/Pasted image 20240708150959.png",
     "README.md",
     "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
-    "基础知识/css",
-    "基础知识",
     "实践应用/计算机网络实践/动手搭建http实验环境.md",
-    "resource/img1",
     "resource/img/Pasted image 20240705180640.png",
     "resource/img/Pasted image 20240705180634.png",
     "resource/img/Pasted image 20240705180602.png",
@@ -429,19 +471,13 @@
     "resource/img/Pasted image 20240705180448.png",
     "resource/img/Pasted image 20240705174610.png",
     "实践应用/组件or工具插件使用方法/moment.js--日历插件.md",
-    "实践应用/计算机网络实践",
     "实践应用/组件or工具插件使用方法/iscroll--js滚动插件.md",
     "实践应用/组件or工具插件使用方法/git复制项目.md",
     "实践应用/组件or工具插件使用方法/driver.js新手指引插件实现与踩坑.md",
     "Excalidraw/Drawing 2024-07-04 15.37.42.excalidraw.md",
     "实践应用/webpack&npm实践/如何打包与发布npm包.md",
     "2024-07-04.md",
-    "Prototype.md",
     "未命名.canvas",
-    "Excalidraw",
-    "实践应用/webpack&npm实践/错误：npm运行失败--npm ERR! code ELIFECYCLE.md",
-    "实践应用/css实践/注意事项.md",
-    "实践应用/组件or工具插件使用方法",
     "未命名 1.canvas"
   ]
 }
