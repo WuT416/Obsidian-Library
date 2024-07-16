@@ -150,9 +150,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d6038b876995caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/基础/盒模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8596088d9fc14d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/基础/选择器/伪元素.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f28df341931d619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/基础/选择器/属性选择器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d7e9330179e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/基础/选择器/组合器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ebc8fb4597ff7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/基础/选择器/优先级.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c902b60322076137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/样式/文本样式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b58f0eb36a3e56b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/css3/计算属性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "834d1cd1831027d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -218,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础知识/css/基础/框模型.md",
+                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础知识/css/基础/框模型.md",
+                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础知识/css/基础/框模型.md"
+                "file": "基础知识/css/css3/矢量图（svg）与位图（canvas）.md"
               }
             }
           },
@@ -297,9 +393,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ea0bf15b4dd53ef8",
+  "active": "9c5aea1994770e6f",
   "lastOpenFiles": [
+    "基础知识/html",
+    "基础知识/css/css3/计算属性.md",
+    "基础知识/css/css3/矢量图（svg）与位图（canvas）.md",
+    "基础知识/css/样式/文本样式.md",
+    "基础知识/css/css3",
+    "基础知识/css/基础/选择器/优先级.md",
+    "基础知识/css/样式",
+    "基础知识/css/基础/选择器/组合器.md",
+    "基础知识/css/基础/选择器/属性选择器.md",
+    "基础知识/css/基础/选择器/伪元素.md",
     "基础知识/css/基础/盒模型.md",
+    "基础知识/css/基础/选择器",
     "基础知识/css/基础/框模型.md",
     "基础知识/css/基础/css变量.md",
     "基础知识/css/基础/常用css属性.md",
@@ -334,18 +441,7 @@
     "Excalidraw",
     "实践应用/webpack&npm实践/错误：npm运行失败--npm ERR! code ELIFECYCLE.md",
     "实践应用/css实践/注意事项.md",
-    "实践应用/webpack&npm实践/错误：可以运行但是commit报错.md",
-    "实践应用/webpack&npm实践/工具插件或者组件使用方法.md",
     "实践应用/组件or工具插件使用方法",
-    "实践应用/webpack&npm实践",
-    "实践应用/vue实践/父组件传入子组件的数组改变引用，更新不及时.md",
-    "实践应用/vue实践/如何新建一个vue项目.md",
-    "实践应用/vue实践/写样式时与页面有空隙（重置样式）.md",
-    "实践应用/vue实践/多页应用如何新增一个页面.md",
-    "实践应用/vue实践/vue响应式不生效.md",
-    "实践应用/vue实践/一个表单拆分为两个组件如何进行校验.md",
-    "实践应用/vue实践",
-    "实践应用/rust+webassembly",
     "未命名 1.canvas"
   ]
 }
