@@ -30,8 +30,6 @@ y: number
 
 gridlayout: any
 
-FIXED_WIDTH: number
-
 addChart: (chart, positon) => void
 
 }
@@ -40,7 +38,7 @@ addChart: (chart, positon) => void
 
 const useDrag = (params: DragParams) => {
 
-let { id, gridlayout, layout, FIXED_WIDTH, addChart } = params
+let { id, gridlayout, layout, addChart } = params
 
 let mouseXY = { x: 0, y: 0 }
 
@@ -84,7 +82,7 @@ x: (layoutArr.length * 2) % 12,
 
 y: layoutArr.length + 12,
 
-w: FIXED_WIDTH || item?.defaultSize?.w || 6,
+w: item?.defaultSize?.w || 6,
 
 h: item?.defaultSize?.h || 6,
 
@@ -92,7 +90,7 @@ i: 'drop' // 表临时元素
 
 })
 
-DragPos.w = FIXED_WIDTH || item?.defaultSize?.w || 6
+DragPos.w = item?.defaultSize?.w || 6
 
 DragPos.h = item?.defaultSize?.h || 6
 
