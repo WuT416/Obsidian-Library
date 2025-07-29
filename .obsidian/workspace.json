@@ -4,231 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9b7b9619dc6ecc",
+        "id": "d744a0d8e7999737",
         "type": "tabs",
         "children": [
           {
-            "id": "55bdae8fa72dddcf",
+            "id": "c82c24328d2a344a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/TypeScript/TypeScript接口、数组、函数.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript接口、数组、函数"
-            }
-          },
-          {
-            "id": "60dc80c9318be3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/TypeScript/TypeScript类型断言、别名.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript类型断言、别名"
+              "title": "README"
             }
           },
           {
-            "id": "58b3135d1968416e",
+            "id": "56b2b430a619bd02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/TypeScript/TypeScript总结（上）.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript总结（上）"
-            }
-          },
-          {
-            "id": "762d25e85bd18f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/TypeScript/Vue中使用typescript的示例.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vue中使用typescript的示例"
-            }
-          },
-          {
-            "id": "3db2da1923953012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/v-slot.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "v-slot"
-            }
-          },
-          {
-            "id": "bf99b10bd6e4b6a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/vuex.md",
+                "file": "tips合集/iframe中点击s2表格内容进行ctrlC失效.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vuex"
-            }
-          },
-          {
-            "id": "bedc5fddd06397d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/vue的响应式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vue的响应式"
-            }
-          },
-          {
-            "id": "3321b340b82dfa3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/vue指令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vue指令"
-            }
-          },
-          {
-            "id": "6931890ca6d6ceb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/生命周期钩子.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "生命周期钩子"
-            }
-          },
-          {
-            "id": "7e1ae8432acfb5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/双向绑定.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "双向绑定"
-            }
-          },
-          {
-            "id": "b57886688e99e104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/条件渲染（v-if与v-show）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "条件渲染（v-if与v-show）"
-            }
-          },
-          {
-            "id": "4fcfd93c8e77c233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/vue/组件间传值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "组件间传值"
-            }
-          },
-          {
-            "id": "88af68867cf9b16e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
-            "id": "e20fc5143d8a7084",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "43819bded0338709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "应用场景/vue3中使用vue-grid-item3.00版本实现demo10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vue3中使用vue-grid-item3.00版本实现demo10"
-            }
-          },
-          {
-            "id": "a16fa52404ab6b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础知识/TypeScript/TypeScript接口、数组、函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript接口、数组、函数"
+              "title": "iframe中点击s2表格内容进行ctrlC失效"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -392,9 +200,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "43819bded0338709",
+  "active": "56b2b430a619bd02",
   "lastOpenFiles": [
+    "未命名.md",
+    "tips合集/iframe中点击s2表格内容进行ctrlC失效.md",
+    "README.md",
     "应用场景/vue3中使用vue-grid-item3.00版本实现demo10.md",
+    "tips合集",
     "应用场景",
     "基础知识/vue/条件渲染（v-if与v-show）.md",
     "基础知识/vue/组件间传值.md",
@@ -430,16 +242,12 @@
     "实践应用/组件or工具插件使用方法/driver.js新手指引插件实现与踩坑.md",
     "实践应用/组件or工具插件使用方法/git复制项目.md",
     "实践应用/组件or工具插件使用方法/iscroll--js滚动插件.md",
-    "实践应用/组件or工具插件使用方法/moment.js--日历插件.md",
-    "实践应用/计算机网络实践/动手搭建http实验环境.md",
-    "实践应用/计算机网络实践/键入网址再按下回车，后面究竟发生了什么？.md",
     "基础知识/sass",
     "基础知识/nodejs",
     "基础知识/JavaScript/数据类型",
     "基础知识/JavaScript/document",
     "基础知识/JavaScript",
     "基础知识/html/标签",
-    "obsidian使用方法",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
